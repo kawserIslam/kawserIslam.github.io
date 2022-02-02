@@ -1,6 +1,10 @@
 body{
     font-family: 'Open Sans', sans-serif; 
 }
-.banner-conrainer{
-    background-color:#CBCACC ;
+.banner-container{
+    background-color:#87eecb ;
+}
+
+.banner-column{
+    background-color: rgb(29, 136, 138);
 }
