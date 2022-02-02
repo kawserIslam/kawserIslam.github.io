@@ -10,8 +10,60 @@ body{
 }
     
 .navbar-container{
-    background-color: #414f77;
+    top:0;
+    background-color: #e0c64f;
+    position: sticky;
+    z-index:1;
 }
 .about-container{
-    background-color: rgb(177, 235, 236);
+    background-color: rgb(236, 235, 177);
 }
+.education-container{
+    background-color: rgba(133, 218, 175, 0.808);
+}
+.bg-redtype{
+    background-color: rgb(226, 134, 101);
+
+}
+.bg-redtype:hover{
+    color: black!important;
+
+}
+
+.redtype-color{
+    color: rgb(55, 18, 143);
+}
+.circle{
+    background-color:rgb(226, 134, 101);
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+
+}
+
+.project-container{
+    background-color:#b3eb6a;
+
+}
+.redtype-color1{
+    color: rgb(7, 77, 62);
+}
+.portfolio-container{
+    background-color: rgb(248, 237, 133);
+}
+.bluetype-color1{
+    color: rgb(38, 17, 144);
+}
+.form-container{
+    background-color: rgb(153, 51, 85);
+}
+.bluetype-color2{
+    color: rgb(0, 0, 0);
+}
+.inner-form{
+    background-color: rgb(231, 169, 190) ;
+}
+.footer{
+    background-color: rgb(86, 78, 136);
+}
+
